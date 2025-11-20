@@ -1,7 +1,10 @@
 Guía práctica: Creación de cuenta y
 repositorio público en GitHub
+
 Unidad: 4 – Control de versiones
+
 Duración estimada: 30 a 45 minutos
+
 Modalidad: Práctico Experimental (APE)
 
 Objetivo de la práctica
