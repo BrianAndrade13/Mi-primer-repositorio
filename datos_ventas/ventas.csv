@@ -1,0 +1,8 @@
+ID_Venta,Fecha,ID_Cliente,Producto,Cantidad,Precio_Unitario,Total_Venta,Metodo_Pago
+1001,2025-01-05,CL001,Teclado Mecánico,2,45.50,91.00,Tarjeta
+1002,2025-01-05,CL003,Mouse Inalámbrico,1,22.00,22.00,Efectivo
+1003,2025-01-06,CL002,Auriculares Bluetooth,3,30.00,90.00,Tarjeta
+1004,2025-01-06,CL004,Monitor LED 24",1,150.00,150.00,Transferencia
+1005,2025-01-07,CL001,Alfombrilla Gamer,1,12.00,12.00,Efectivo
+1006,2025-01-07,CL005,Laptop 15",1,580.00,580.00,Tarjeta
+1007,2025-01-08,CL003,Teclado Mecánico,1,45.50,45.50,Transferencia
