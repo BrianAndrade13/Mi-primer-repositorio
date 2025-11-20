@@ -1,0 +1,6 @@
+ID_Cliente,Nombre,Apellido,Correo,Telefono,Direccion,Fecha_Registro
+CL001,Ana,Gómez,ana.gomez@email.com,555-1234,Calle Luna 45,2024-12-10
+CL002,Carlos,Ruiz,carlos.ruiz@email.com,555-5678,Avenida Sol 102,2024-12-12
+CL003,María,López,mlopez@email.com,555-9012,Calle Estrella 88,2024-12-15
+CL004,Jorge,Pérez,jorge.perez@email.com,555-3456,Calle Río Verde 21,2024-12-18
+CL005,Lucía,Mendoza,lucia.mendoza@email.com,555-7890,Avenida Central 300,2024-12-20
